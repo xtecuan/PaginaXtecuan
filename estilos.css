@@ -1,0 +1,12 @@
+.container{
+    max-width: 1400px;
+    margin: auto;
+}
+
+header .logo{
+    margin: 0;
+    padding: 25px 30px;
+    font-weight: bold;
+    color: blueviolet;
+    font-size: 1.6em;
+}
